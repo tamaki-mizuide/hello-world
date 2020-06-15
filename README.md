@@ -1,2 +1,3 @@
 # hello-world
-thie repository is tutorial trial
+this repository is tutorial trial
+I spend some ours at gym every weekend.
